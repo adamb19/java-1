@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BorrowerList()
+comment0.text=constrcutor\ that\ is\ used\ to\ \r\n\ intialise\ the\ a\ new\ array\ \r\n\ list\ to\ hold\ borroer\ information\r\n\ \r\n
+comment1.params=borrower
+comment1.target=void\ addBorrower(Borrower)
+comment1.text=\r\n\ a\ class\ which\ adds\ borrowers\ to\ the\ list\r\n\ @param\ borrower\ from\ borrower\ class\r\n
+comment2.params=
+comment2.target=void\ getAllBorrowers()
+comment2.text=\r\n\ this\ class\ will\ ask\ for\ all\ borrowers\ in\ the\ array\ list\ to\ be\ printed\ of\r\n
+comment3.params=borrowerEntry
+comment3.target=void\ getBorrower(int)
+comment3.text=\r\n\ gets\ a\ specified\ borrower\ from\ the\ array\ list\ \r\n\ by\ telling\ what\ position\ in\ the\ the\ array\ list\ you\ want\r\n\ printing\ out\ on\ the\ page\r\n\ \r\n\ @param\ borrowerentry(where\ in\ list)\r\n
+comment4.params=
+comment4.target=int\ getNumberOfBorrowers()
+comment4.text=\r\n\ shows\ how\ many\ are\ in\ array\ list\r\n\ \r\n\ @return\ borrowers.size()\r\n
+comment5.params=borrowerEntry
+comment5.target=void\ removeBorrower(int)
+comment5.text=\r\n\ remove\ borrower\ from\ the\ arraylist\ by\ borrowerentry\r\n\ \r\n\ @param\ int\ borrowentry\r\n
+comment6.params=libraryNumber
+comment6.target=boolean\ removeBorrower(java.lang.String)
+comment6.text=\r\n\ remove\ borrower\ by\ libararynumber\r\n\ @param\ string\ \ libraryNumber\r\n\ @param\ int\ borrowerentry\r\n\ @return\ true\r\n\ @return\ false\r\n
+comment7.params=libraryNumber
+comment7.target=int\ search(java.lang.String)
+comment7.text=\r\n\ search\ for\ the\ libary\ number\r\n\ @param\ string\ libraryNumber\r\n\ @return\ borrowerEntry\r\n\ return\ -1\r\n
+numComments=8

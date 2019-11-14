@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sticks
+comment0.target=Pile(int)
+comment1.params=
+comment1.target=int\ getSticksleft()
+comment2.params=number
+comment2.target=boolean\ removeSticks(int)
+numComments=3

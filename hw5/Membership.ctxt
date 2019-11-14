@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=maxnoOfBorrowers
+comment0.target=Membership(int)
+comment0.text=\r\n\ constructor\ will\ define\ size\ of\ borrowers\ to\ the\ value\ given\ to\ macnoofborrowers\ and\ make\ current\ index\ \=\ 0\r\n\ \r\n\ @param\ int\ maxnoOfBorrowers\r\n
+comment1.params=borrower
+comment1.target=void\ addBorrower(Borrower)
+comment1.text=\r\n\ this\ metrhod\ will\ add\ the\ borrower\ to\ \ the\ array\r\n
+comment2.params=
+comment2.target=int\ getCapacity()
+comment2.text=\r\n\ get\ the\ capcity\ of\ the\ array\r\n\ \r\n\ @return\ currentInddex\r\n
+comment3.params=
+comment3.target=int\ getNumberOfBorrowers()
+comment3.text=]\r\n\ get\ the\ number\ of\ borrowers\r\n\ \r\n\ @return\ currentIndex\r\n
+comment4.params=libraryNumber
+comment4.target=boolean\ printBorrower(java.lang.String)
+comment4.text=\r\n\ this\ method\ print\ borrower\ with\ given\ library\ number\r\n\ \r\n\ @param\ libraryNumber\r\n\ \r\n\ @return\ true\r\n\ @return\ false\r\n
+comment5.params=
+comment5.target=void\ printAllBorrowers()
+comment5.text=\r\n\ this\ method\ with\ print\ all\ the\ borrowers\ in\ the\ array\ \r\n
+comment6.params=libraryNumber
+comment6.target=boolean\ removeBorrower(java.lang.String)
+comment6.text=\r\n\ this\ method\ will\ remove\ a\ borrower\ with\ libraryNumber\r\n\ \r\n\ @param\ libraryNumber\r\n\ \r\n\ @return\ true\ if\ libraryNumber\ found\ and\ then\ squash\ the\ method\r\n\ \r\n\ @return\ false\ when\ the\ librarynumber\ cannot\ be\ found\r\n
+comment7.params=index
+comment7.target=void\ squash(int)
+comment7.text=\r\n\ this\ method\ will\ squash\ the\ array\ down\ \r\n\ when\ one\ item\ array\ is\ removed\r\n\ \r\n\ @param\ int\ index\r\n\ \r\n
+comment8.params=libraryNumber
+comment8.target=int\ search(java.lang.String)
+comment8.text=\r\n\ this\ method\ will\ search\ for\ an\ item\ in\ the\ array\r\n\ with\ the\ given\ library\ Number\r\n\ \r\n\ @return\ if\ found\ return\ the\ index\ of\ where\ it\ was\ found\r\n\ @return\ if\ not\ found\ return\ -1\r\n
+numComments=9

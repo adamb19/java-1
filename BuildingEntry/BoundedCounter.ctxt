@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=maxCount
+comment0.target=BoundedCounter(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Counter\r\n\ Sets\ count\ to\ 0.\r\n
+comment1.params=
+comment1.target=int\ getCount()
+comment1.text=\r\n\ Return\ \ value\ of\ counter.\r\n\ \r\n\ @return\ current\ value\ of\ count\r\n
+comment2.params=
+comment2.target=boolean\ incrementCount()
+comment2.text=\r\n\ adds\ 1\ to\ the\ counter.\r\n
+comment3.params=
+comment3.target=void\ resetCount()
+comment3.text=\r\n\ sets\ the\ counter\ to\ 0.\r\n
+comment4.params=
+comment4.target=int\ getMaxAllowed()
+comment4.text=\r\n\ \ set\ the\ maxinum\ of\ what\ is\ allowed\r\n
+comment5.params=
+comment5.target=boolean\ decrementCount()
+comment5.text=\r\n\ Subtract\ 1\ from\ count\ as\ long\ at\ this\r\n\ wll\ not\ cause\ a\ negative\ result\r\n\r\n\ Alternate\ version\ of\ decrementCount\ introduced\r\n\ in\ Week\ 3\ Slide\ 29\r\n\ \r\n\ @return\ whether\ the\ operation\ was\ successful\r\n
+numComments=6
